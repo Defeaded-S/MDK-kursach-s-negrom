@@ -48,6 +48,8 @@ https://www.azone-it.ru/articles-vlan
 https://ftp.dlink.ru/pub/Trainings/SwitchWhitePapers/Q-in-Q_Port-Based_and_Selective.pdf
 
 https://fiberroad.com/ru/resources/glossary/vlan-explained-what-is-vlan-how-does-it-work
+
+https://www.dlink.ru/ru/faq/465/2030.html
 ## Предмет и объект исследования
 ## Условия компьютерной сети
 ## Проблема исследования
